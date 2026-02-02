@@ -1,6 +1,9 @@
 ## Tools
-primary ubuntu
-alternative like WSL Amazon linux (EC2 free tier), fedora
+#### Primary - ubuntu
+
+#### Alternative like WSL, Amazon linux (EC2 free tier), fedora
+
+## Tasks
 
 1.installing linux.
 
